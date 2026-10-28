@@ -1,0 +1,6 @@
+PORT=3000
+ICEFILE_BASE_URL=http://icefile.my.id/api/v1/media/4a7d1ed414474e4033ac29ccb8653d9b
+ICEFILE_API_KEY=
+REQUEST_TIMEOUT=30000
+ENCRYPTION_SECRET=rahasia32karakterminimal!!123456
+NODE_ENV=development
